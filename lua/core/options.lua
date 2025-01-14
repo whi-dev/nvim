@@ -17,7 +17,9 @@ vim.opt.breakindent = true
 -- permament undo history
 vim.opt.undofile = true
 
--- TODO: search case option 
+-- search case option 
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
 
 
 -- NEED SEARCH:
@@ -47,4 +49,12 @@ vim.opt.inccommand = 'split'
 -- show line around cursor
 vim.opt.scrolloff = 10
 
+-- tab to space
+vim.opt.expandtab = true
+
+-- indent spaces
+vim.opt.shiftwidth = 4
+
+-- tab spaces
+vim.opt.tabstop = 4
 
