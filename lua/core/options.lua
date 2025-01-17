@@ -58,3 +58,5 @@ vim.opt.shiftwidth = 4
 -- tab spaces
 vim.opt.tabstop = 4
 
+-- no new line at eol
+vim.opt.fixeol = false
