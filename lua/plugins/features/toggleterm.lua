@@ -25,7 +25,7 @@ return {
       -- This field is only relevant if direction is set to 'float'
       float_opts = {
         border = 'curved',
-        winblend = 3,
+        winblend = 0,
         title_pos = 'center',
       },
       winbar = {
