@@ -1,3 +1,0 @@
-return {
-  "Masion/maison-lspconfig" }
-}
